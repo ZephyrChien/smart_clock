@@ -1,5 +1,6 @@
 conf.v
 clock.v
 screen.v
+encoding.v
 media.v
 main.v
